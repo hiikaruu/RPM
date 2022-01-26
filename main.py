@@ -16,3 +16,4 @@ if __name__ == '__main__':
         print("x = %.2f" % x)
     else:
         print("Корней нет")
+#
